@@ -1,0 +1,15 @@
+{
+  "files": {
+    "main.css": "/WeatherCast/static/css/main.f7b19b5b.css",
+    "main.js": "/WeatherCast/static/js/main.7544818a.js",
+    "static/js/787.e70d7c82.chunk.js": "/WeatherCast/static/js/787.e70d7c82.chunk.js",
+    "index.html": "/WeatherCast/index.html",
+    "main.f7b19b5b.css.map": "/WeatherCast/static/css/main.f7b19b5b.css.map",
+    "main.7544818a.js.map": "/WeatherCast/static/js/main.7544818a.js.map",
+    "787.e70d7c82.chunk.js.map": "/WeatherCast/static/js/787.e70d7c82.chunk.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.f7b19b5b.css",
+    "static/js/main.7544818a.js"
+  ]
+}
