@@ -2,7 +2,9 @@
 
 Weather app for real-time weather information using API.
 
-![Weather App Screenshot](https://raw.githubusercontent.com/actron-git/SkyCast-WeatherApp/main/skycast.png)
+![Weather App Screenshot](https://raw.githubusercontent.com/actron-git/WeatherCast/master/skycast.png)
+
+<!-- https://raw.githubusercontent.com/actron-git/WeatherCast/master/skycast.png -->
 
 ## Features
 
